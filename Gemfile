@@ -24,6 +24,8 @@ gem 'jbuilder', '~> 2.7'
 gem 'frontend-generators', '~> 0.2.0'
 gem 'jquery-rails', '~> 4.3', '>= 4.3.3'
 gem 'rails-ujs', '~> 0.1.0'
+gem 'bootstrap', '~> 4.3', '>= 4.3.1'
+
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
 
